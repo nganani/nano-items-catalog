@@ -26,7 +26,6 @@ class User(Base):
         }
 
 
-
 class Category(Base):
     __tablename__ = 'category'
 
@@ -53,7 +52,7 @@ class Item(Base):
     description = Column(String(255))
 
     category_id = Column(Integer,
-        ForeignKey('category.id'), nullable=False)
+                         ForeignKey('category.id'), nullable=False)
     category = relationship(
         "Category", backref=backref("Item", cascade="all, delete"))
 

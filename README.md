@@ -24,5 +24,6 @@ Note: This project was written for Python 3 but should work on Python 2 just as 
 7. CRUD Operations and using database driven web development
 8. RESTfull API endpoints
 
-## License
-Project is released under the [MIT License](http://opensource.org/licenses/MIT).
+## License & Contributers 
+* Project is based on Udacity resteraunts project, with elements from [this repo](https://github.com/udacity/ud330/tree/master/Lesson4/step2) and my solution, modified as required
+* Project is released under the [MIT License](http://opensource.org/licenses/MIT).

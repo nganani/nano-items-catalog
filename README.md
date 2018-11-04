@@ -2,10 +2,10 @@
 Project for Udacity full stack web developer nanodegree
 ## Running the application
 * Install dependent libraries using `pip3 install -U -r requirements.txt`
-* Flask
-* sqlalchemy
-* requests
-* oauth2client
+  * Flask
+  * sqlalchemy
+  * requests
+  * oauth2client
 * Enter your developer credentials for 3rd party authentication in the two files below
 * Google:  `client_secrets.json` see [here](https://developers.google.com/maps/documentation/javascript/get-api-key) for more details
 * Facebook: `fb_client_secrets.json`, see [here](https://developers.facebook.com/apps) for more details

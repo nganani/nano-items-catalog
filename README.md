@@ -12,6 +12,7 @@ Project for Udacity full stack web developer nanodegree
 * Create empty database: `python3 database_setup.py`
 * Run `python3 app2.py`
 * Go to this [link](http://localhost:5000)
+
 Note: This project was written for Python 3 but should work on Python 2 just as well
 
 ## Skills

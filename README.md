@@ -1,7 +1,7 @@
 # Item Catalog Web Application
 Project for Udacity full stack web developer nanodegree
 ## Running the application
-* Install dependent libraries using `pip3 install -U -r requirements.txt`
+* Install dependent libraries using `pip3 install -U -r requirements.txt`. This will install the following libraries:
   * Flask
   * sqlalchemy
   * requests
